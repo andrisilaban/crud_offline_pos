@@ -1,0 +1,13 @@
+{
+    "openai_key": "",
+    "modules": [
+        "dashboard",
+        "main_navigation",
+        "product_form",
+        "product_list",
+        "purchase_order",
+        "sales_report",
+        "sales_transaction",
+        "stock_report"
+    ]
+}
